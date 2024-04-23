@@ -60,13 +60,11 @@ export default function RootLayout({
         style={{
           backgroundImage: `url('/images/${Images[index]}')`,
           backgroundSize: "cover",
-          backgroundRepeat: "no-repeat",
+          backgroundRepeat: "repeat",
           backgroundPosition: "center",
-          minWidth: "100vw",
-          minHeight: "100vh",
-          overflow: "hidden",
           fontFamily: "monospace",
           transition: "background-image 1s ease-in-out",
+          color: "#fff !important",
         }}
       >
         <RecoilRoot>{children}</RecoilRoot>
