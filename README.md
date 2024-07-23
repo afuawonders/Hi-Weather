@@ -55,27 +55,27 @@ Welcome to Weather Forecast! This application provides real-time weather updates
 
 ## Installation
 
-1. Clone the repository: `git clone https://github.com/Raytchellee/hi-weather.git`
+1. Clone the repository: `git clone https://github.com/afuawonders/hi-weather.git`
 2. Navigate to the project directory: `cd hi-weather`
 3. Install dependencies: `npm install`
 4. Start the application: `npm start`
 
 ## Screenshots
 
-![App Screenshot](https://github.com/Raytchellee/hi-weather/blob/main/public/images/Screenshot1.png)
+![App Screenshot](https://github.com/afuawonders/hi-weather/blob/main/public/images/Screenshot1.png)
 
 
-![App Screenshot](https://github.com/Raytchellee/hi-weather/blob/main/public/images/Screenshot2.png)
+![App Screenshot](https://github.com/afuawonders/hi-weather/blob/main/public/images/Screenshot2.png)
 
 
-![App Screenshot](https://github.com/Raytchellee/hi-weather/blob/main/public/images/Screenshot3.png)
+![App Screenshot](https://github.com/afuawonders/hi-weather/blob/main/public/images/Screenshot3.png)
 
 
 ## Live Demo
 
 For a live demo, visit the link below:
 
-https://hi-weather.onrender.com/
+https://hi-weather.onrender.com
 
 ## Authors
 ### Frontend Team
