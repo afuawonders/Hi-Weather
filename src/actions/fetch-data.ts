@@ -21,7 +21,7 @@ export const useActions = () => {
   const baseUrl = "https://api.openweathermap.org";
   const defaultUnit = "metric";
   const apiKey = process.env.NEXT_PUBLIC_API_KEY;
-  const defaultCity = "lagos";
+  const defaultCity = "Accra";
   const defaultCount = 40;
 
   // const fetchCurrentData = useCallback(
